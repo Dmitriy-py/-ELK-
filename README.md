@@ -14,3 +14,13 @@
 
 ![Снимок экрана (1109)](https://github.com/user-attachments/assets/ac8d2682-ecd9-480b-a2b4-f323787d93b2)
 
+## Задание 2. Kibana
+
+### Установите и запустите Kibana.
+
+Приведите скриншот интерфейса Kibana на странице http://<ip вашего сервера>:5601/app/dev_tools#/console, где будет выполнен запрос GET /_cluster/health?pretty.
+
+![Снимок экрана (1110)](https://github.com/user-attachments/assets/c5a63f71-cade-46e4-9c0f-1709d4c475fe)
+
+![Снимок экрана (1113)](https://github.com/user-attachments/assets/a035eefb-8d83-460a-9e8e-7cf0781ccbe3)
+
