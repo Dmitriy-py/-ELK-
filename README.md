@@ -48,6 +48,8 @@
 
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx, которые были отправлены через Filebeat.
 
+![Снимок экрана (1121)](https://github.com/user-attachments/assets/cdc5d97e-9e2e-45fa-a2ad-74ec947911e0)
+
 ![Снимок экрана (1120)](https://github.com/user-attachments/assets/b4664f4e-c121-49af-84e0-3889d46dd099)
 
 
